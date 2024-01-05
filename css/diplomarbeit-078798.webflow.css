@@ -381,6 +381,10 @@ img {
   display: flex;
 }
 
+.subtitle {
+  font-size: 16px;
+}
+
 @media screen and (max-width: 991px) {
   .img-slider {
     margin-left: auto;
